@@ -1,2 +1,2 @@
 # QA-Portfolio
-My Manual Testing Work (Test Cases, Test Plans, API Testing)
+My Manual Testing Work
