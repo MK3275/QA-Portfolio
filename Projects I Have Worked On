@@ -1,0 +1,16 @@
+I started my QA journey during my internship, where I performed manual testing on various cryptocurrency wallets such as MetaMask, Coinbase, and Binance. 
+This was my first hands-on experience in testing, where I worked on both testnet and mainnet environments to understand real-world application behavior.
+After that, in my second company, I worked on Shopify-based websites and web applications. 
+One of the major projects I contributed to was an Ice Hockey Soccer Board system, where I tested 12 different user roles along with its mobile application. 
+My responsibilities included performing smoke, sanity, and regression testing to ensure system stability across different user flows.
+I also worked on a Business Intelligence (BI) tool named Prism, which included 12–15 data preparation tools. 
+These tools allowed users to modify, transform, and retrieve data in multiple ways. 
+Additionally, I tested data visualization features, including graphs inspired by Power BI, ensuring accuracy and usability.
+Currently, I am working on WordPress-based websites along with an LMS (Learning Management System) platform designed for kids. 
+This system consists of two parts: a website and a platform. 
+Users purchase courses or digital books through the website and, after payment, are redirected to the platform where they can access their content. 
+For additional purchases, users are redirected back to the website.
+My testing workflow involves analyzing requirements and understanding product features, creating detailed test plans (including user stories and acceptance criteria), and designing structured test cases based on those requirements. 
+These test cases are then shared with the development team to align implementation. 
+Once the feature is developed, I verify it against the test cases and report any issues by logging bugs or creating new tickets. 
+I always test from a user’s perspective rather than just a tester’s perspective to ensure better product quality.
